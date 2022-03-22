@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicollyXD   
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learn como criar um perfil aquii
+- 💞️ I’m looking to collaborate on 
+-
 
 <!---
 nicollyXD/nicollyXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
